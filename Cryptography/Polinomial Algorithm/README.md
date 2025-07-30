@@ -1,4 +1,5 @@
 level: medium
+
 Author: Aryanda
 
 =====================================================================================
@@ -13,6 +14,7 @@ wait, aku searching dulu bentar...
 ...
 
 Ohhh! Jadi polinomial itu semacam fungsi matematika yang bentuknya kayak gini:
+
 " f(x) = a₀ + a₁x + a₂x² + a₃x³ + ... + aₙxⁿ "
 
 Nah, di soal ini, bentuk polinomialnya justru disederhanain:
