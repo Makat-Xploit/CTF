@@ -5,8 +5,11 @@ Author: Aryanda
 
 Polinomial?? aku baru dengar...
 wait, aku searching dulu bentar...
+
 .
+
 ..
+
 ...
 
 Ohhh! Jadi polinomial itu semacam fungsi matematika yang bentuknya kayak gini:
